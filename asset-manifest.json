@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/prakash-aathi/airbnb/static/css/main.6e90c2b0.css",
+    "main.js": "/prakash-aathi/airbnb/static/js/main.cd03a7ac.js",
+    "index.html": "/prakash-aathi/airbnb/index.html",
+    "main.6e90c2b0.css.map": "/prakash-aathi/airbnb/static/css/main.6e90c2b0.css.map",
+    "main.cd03a7ac.js.map": "/prakash-aathi/airbnb/static/js/main.cd03a7ac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e90c2b0.css",
+    "static/js/main.cd03a7ac.js"
+  ]
+}
